@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558188152074",
+    "project_id": "canteen-2a462",
+    "storage_bucket": "canteen-2a462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558188152074:android:3bd7adbf9b661b652526f3",
+        "android_client_info": {
+          "package_name": "com.example.canteen_food_ordering_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWaJ5PslcRqdy2-QbYbSZj0CTVVJ8r5MA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
